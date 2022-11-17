@@ -9,11 +9,11 @@ Generador de Password realizado en Python 3 con tres longitudes distintas. La op
 password de 12 caracteres. La opción high genera un password de 16 caracteres. Una vez generada la clave la almacena en el portapapeles para luego hacer uso de ella.
 
 
-## Links de Interes.
+## Links de Interés.
 
 [Documentación sobre el módulo random de Python](https://docs.python.org/3/library/random.html)
 
-##Requerimientos
+## Requerimientos
 
 No hay requisitos especiales
 
